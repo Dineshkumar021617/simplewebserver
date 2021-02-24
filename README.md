@@ -57,4 +57,4 @@ Testing the webserver
 ![output](static/img/a2.png)
 
 ## RESULT:
-    Thus a website is designed to display multiplication table for a giving input and hosted in url http://dineshkumars.student.saveetha.in:8000/tables/ . 
+Thus a website is designed to display multiplication table for a giving input and hosted in url http://dineshkumars.student.saveetha.in:8000/tables/ . 
